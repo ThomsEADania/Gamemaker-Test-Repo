@@ -36,12 +36,13 @@
   },
   "name":"Test projekt",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
+    {"id":{"name":"Sky","path":"sprites/Sky/Sky.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
