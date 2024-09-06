@@ -25,6 +25,7 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Environment","folderPath":"folders/Sprites/Environment.yy","name":"Environment","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Backgrounds","folderPath":"folders/Sprites/Environment/Backgrounds.yy","name":"Backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tiles","folderPath":"folders/Sprites/Environment/Tiles.yy","name":"Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -42,6 +43,8 @@
     {"id":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},},
     {"id":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},},
     {"id":{"name":"Sky","path":"sprites/Sky/Sky.yy",},},
+    {"id":{"name":"Tiles_Ground","path":"sprites/Tiles_Ground/Tiles_Ground.yy",},},
+    {"id":{"name":"TileSet_Ground","path":"tilesets/TileSet_Ground/TileSet_Ground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
@@ -51,5 +54,6 @@
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMTextureGroup":"","%Name":"tg_game","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"tg_game","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
   ],
 }
