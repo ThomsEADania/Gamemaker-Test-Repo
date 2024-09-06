@@ -37,6 +37,8 @@
   "name":"Test projekt",
   "resources":[
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
+    {"id":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},},
+    {"id":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},},
     {"id":{"name":"Sky","path":"sprites/Sky/Sky.yy",},},
   ],
   "resourceType":"GMProject",
